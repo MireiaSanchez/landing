@@ -1,0 +1,21 @@
+.main_content{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    padding: 0px 100px;
+    
+}
+
+.member{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.member h3{
+    font-weight: bold;
+}
+
+.member p{
+    line-height: 1.5em;
+}
